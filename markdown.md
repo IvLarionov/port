@@ -1,7 +1,12 @@
-# GitHub-Flavored Markdown EDITED
+# GitHub-Flavored Markdown
 
 ## Краткое руководство
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+ 
 Абзацы создаются при помощи пустой строки. Если вокруг текста сверху и снизу есть пустые строки, то текст превращается в абзац.
 
 Чтобы сделать перенос строки вместо абзаца,  
