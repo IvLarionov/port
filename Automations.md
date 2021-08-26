@@ -25,10 +25,12 @@ Below are some of the key terms and capability of Automations:
 - **Circular Dependency** - this tab in an Automation shows if there are any instances of circular dependencies between Automations which could cause an endless loop.
 - **Automations tab in Configured Fields/Tasks** show a list of Automations where (Automation name) the current field/task is being used and how (Action/Filter/Trigger) it is being used.
 
-# Automation Grid
+Automation Grid
+=
 
 ![](//port/image/automationGrid.png)
 
-## General Tab
+General Tab
+-
 
 An Automation is defined by a **Trackor Type** (to which it is associated), **Trigger Type** (action that triggers an Automation) and ordered set of **Filter-Actions**. Automation can now support **multiple Filter-Actions**  and we can enable an option to stop executing the ordered set of Filter-Actions when the first Filter condition has been met and its corresponding Action executed – this capability is called **'Stop on Filter Match'**.  In the screenshot below, since ‘Stop on Filter Match’ is enabled, the ordered set of Filter-Actions will stop after executing the Action, on the first Action ID whose Filter returns true. If ‘Stop on Filter Match’ is not enabled, all Action IDs will be evaluated – if Filter returns true, corresponding Action will be executed, dictated by the Order Number (ascending).
