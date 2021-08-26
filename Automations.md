@@ -28,7 +28,8 @@ Below are some of the key terms and capability of Automations:
 # Automation Grid ##
 
 
-<img src="https://github.com/IvLarionov/port/raw/master/image/automationGrid.png" width="100%">
+![](//master/image/automationGrid.png)
+
 
 # General Tab #
 
